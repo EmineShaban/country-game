@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/country-game/static/css/main.e254a531.css",
+    "main.js": "/country-game/static/js/main.d9cf9839.js",
+    "static/js/787.2247b5d6.chunk.js": "/country-game/static/js/787.2247b5d6.chunk.js",
+    "static/media/background.png": "/country-game/static/media/background.41dbc5504a105eae7176.png",
+    "index.html": "/country-game/index.html",
+    "main.e254a531.css.map": "/country-game/static/css/main.e254a531.css.map",
+    "main.d9cf9839.js.map": "/country-game/static/js/main.d9cf9839.js.map",
+    "787.2247b5d6.chunk.js.map": "/country-game/static/js/787.2247b5d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e254a531.css",
+    "static/js/main.d9cf9839.js"
+  ]
+}
